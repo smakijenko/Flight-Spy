@@ -1,7 +1,7 @@
 # Flight Spy - flight tracker app 
 👋 Hi, 
 
-✈️ I would like to present to you my new SwiftUI app. It's Flight Spy, flight tracker application.
+✈️ I would like to present to you my new SwiftUI app. It's Flight Spy, flight tracker application. To get the aircrafts I used free api: https://opensky-network.org. To get more info about the flight I created REST api in PHP.
 
 🟥 Here is a link to the youtube video, that shows how the app looks like: https://youtu.be/ctARyKBTel4
 
@@ -15,7 +15,7 @@
 
 ◻️ Slide in tab with image of the aircraft, informations about the flight and menu at the bottom with buttons to show some extra informations aboout the flight and path of the flight.
 
-▫️ To get data about the flight I created REST api, that scrape informations from: https://radarbox.com.
+▫️ To get data about the flight I created REST api in PHP, that scrape informations from: https://radarbox.com.
 
 ![ezgif com-optimize](https://github.com/user-attachments/assets/4f7ae1a9-ba11-4a54-809d-fdf6ed498354)
 
