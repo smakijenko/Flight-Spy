@@ -25,7 +25,6 @@ class AircaftInfoDataService: ObservableObject {
     
     func fetchAircraftInfo(region: String) async throws{
         let url = URL(string: "https://login:password@opensky-network.org/api/states/all?\(region)")!
-        //let url = URL(string: "http://localhost/ejpiaj.php/")!
         let (data, _) = try await URLSession.shared.data(from: url)
         let decodedAircrafts = try JSONDecoder().decode(OpenSkyApiAircraft.self, from: data)
         decodAircrafts = decodedAircrafts.states
