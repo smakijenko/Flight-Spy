@@ -15,7 +15,7 @@
 
 ◻️ Slide in tab with image of the aircraft, informations about the flight and menu at the bottom with buttons to show some extra informations about the flight and path of the flight.
 
-▫️ To get data about the flight I created REST api in PHP, that scrape informations from: https://radarbox.com.
+▫️ To get data about the flight I created REST api in PHP, that scrapes informations from: https://radarbox.com.
 
 ![ezgif com-optimize](https://github.com/user-attachments/assets/4f7ae1a9-ba11-4a54-809d-fdf6ed498354)
 
