@@ -31,7 +31,7 @@
 
 ![ezgif com-optimize](https://github.com/user-attachments/assets/0435bb37-ebb6-4ea8-bc60-c456301c3580)
 
-◻️ Button, with an action of showing aircrafts currently on ground or airborn.
+◻️ Button, with an action of switching between aircrafts currently on ground or airborn.
 
 ![ezgif com-optimize](https://github.com/user-attachments/assets/8363564e-e87a-406d-ad15-f7d9d68bfaf8)
 
