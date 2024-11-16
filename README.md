@@ -13,7 +13,7 @@
 
 🔥 A few interesting features that are implemented to the app:
 
-◻️ Slide in tab with image of the aircraft, informations about the flight and menu at the bottom with buttons to show some extra informations aboout the flight and path of the flight.
+◻️ Slide in tab with image of the aircraft, informations about the flight and menu at the bottom with buttons to show some extra informations about the flight and path of the flight.
 
 ▫️ To get data about the flight I created REST api in PHP, that scrape informations from: https://radarbox.com.
 
