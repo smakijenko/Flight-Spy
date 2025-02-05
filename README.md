@@ -1,7 +1,7 @@
 # Flight Spy - flight tracker app 
 👋 Hi, 
 
-✈️ I would like to present to you my new SwiftUI app with MVVM pattern. It's Flight Spy, flight tracker application. To get the aircrafts I used free api: https://opensky-network.org. To get more info about the flight I created REST api in PHP.
+✈️ I would like to present you my new SwiftUI app with MVVM pattern. It's Flight Spy, flight tracker application. To get the aircrafts I used free api: https://opensky-network.org. To get more info about the flight I created REST api in PHP.
 
 🟥 Here is a link to the youtube video, that shows how the app looks like: https://youtu.be/ctARyKBTel4
 
@@ -11,7 +11,7 @@
 
 👉 For icons and pins I used SF Symbols and a few of them are downloaded from https://www.flaticon.com.
 
-🔥 A few interesting features that are implemented to the app:
+🔥 A few interesting features that are implemented into the app:
 
 ◻️ Slide in tab with image of the aircraft, informations about the flight and menu at the bottom with buttons to show some extra informations about the flight and path of the flight.
 
