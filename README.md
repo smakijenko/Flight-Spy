@@ -23,7 +23,7 @@
 
 ![ezgif com-optimize](https://github.com/user-attachments/assets/63088bd4-7c06-46e9-b2cf-e67d0569a3cb)
 
-◻️ As I named it - Pulsator. It it an aircraft position refresh indicator. On tap, it shows intervals drop down menu.
+◻️ As I named it - Pulsator. It is an aircraft position refresh indicator. On tap, it shows intervals drop down menu.
 
 ![ScreenRecording_11-06-202415-23-34_1-ezgif com-optimize](https://github.com/user-attachments/assets/4191a923-bff0-4e6b-80d3-93ca9d369ca9)
 
