@@ -1,15 +1,15 @@
 # Flight Spy - flight tracker app 
-👋 Hi, 
+👋 Hi!
 
-✈️ I would like to present you my new SwiftUI app with MVVM pattern. It's Flight Spy, flight tracker application. To get the aircrafts I used free api: https://opensky-network.org. To get more info about the flight I created REST api in PHP.
+✈️ Let me introduce Flight Spy — a simple and useful SwiftUI app that lets you track real-time aircraft flying over Europe.
+
+The app uses the free API from opensky-network.org to show live airplane positions on the map. To provide more details about specific flights, I used PHP scraper that collects extra public flight information.
+
+The interface is clean and easy to use, with flight data displayed in neatly organized tiles, making browsing clear and enjoyable.
+
+To ensure a smooth user experience, the app includes error handling throughout the entire data flow. Any issues with loading data, API responses, or connectivity are caught by backend managers, and the user is informed via clear system alerts, so they always know what’s going on.
 
 🟥 Here is a link to the youtube video, that shows how the app looks like: https://youtu.be/ctARyKBTel4
-
-👉 To create logo I used ChatGPT DALL-E.
-
-👉 Flags of the countries are downloaded from: https://www.flagi-panstw.pl.
-
-👉 For icons and pins I used SF Symbols and a few of them are downloaded from https://www.flaticon.com.
 
 🔥 A few interesting features that are implemented into the app:
 
